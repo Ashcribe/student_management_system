@@ -1,4 +1,4 @@
-# inventory_management_system
+# student_management_system
 
 In this project I built a student result managememnt system using python in a google colaboratory (jupyter notebook) environment. 
 
