@@ -1,6 +1,6 @@
 # student_management_system
 
-In this project I built a student result managememnt system using python in a google colaboratory (jupyter notebook) environment. 
+In this project I built a student result management system using python in a google colaboratory (jupyter notebook) environment. 
 
 With the student result management system you can:
 - Store student names and scores
